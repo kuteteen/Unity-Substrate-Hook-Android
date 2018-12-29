@@ -16,6 +16,8 @@ Il2CppDumper - https://github.com/Perfare/Il2CppDumper
 
 Download NDK 16b https://developer.android.com/ndk/downloads/older_releases
 
+Extract NDK to the root path of your hard drive
+
 Use CMD to compile with ndk-build
 
 ```(path to NDK)\ndk-build NDK_PROJECT_PATH=(path to project) NDK_APPLICATION_MK=(path to project\jni\Application.mk)```
