@@ -18,6 +18,6 @@ Download NDK 16b https://developer.android.com/ndk/downloads/older_releases
 
 Use CMD to compile with ndk-build
 
-  (path to NDK)\ndk-build NDK_PROJECT_PATH=(path to project) NDK_APPLICATION_MK=(path to project\jni)
+```(path to NDK)\ndk-build NDK_PROJECT_PATH=(path to project) NDK_APPLICATION_MK=(path to project\jni)```
 
-  E:\android-ndk-r16b\ndk-build NDK_PROJECT_PATH=D:\Project\Github\Unity-Substrate-Hook-Android-master NDK_APPLICATION_MK=D:\Project\Github\Unity-Substrate-Hook-Android-master\jni\Application.mk
+```E:\android-ndk-r16b\ndk-build NDK_PROJECT_PATH=D:\Project\Github\Unity-Substrate-Hook-Android-master NDK_APPLICATION_MK=D:\Project\Github\Unity-Substrate-Hook-Android-master\jni\Application.mk```
